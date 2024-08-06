@@ -1,0 +1,8 @@
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+
+[submodule "themes/PaperMod"]
+	path = "themes/PaperMod"
+	url = "https://github.com/nielsbrakel/hugo-PaperMod.git"
+	branch = "toc-on-the-side"

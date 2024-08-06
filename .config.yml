@@ -1,0 +1,11 @@
+baseURL: https://mygane22.github.io
+languageCode: en-us
+defaultContentLanguage: zh
+title: Mygane22
+# 主题
+# theme: PaperMod
+
+params:
+    # 目录
+    ShowToc: true
+    TocOpen: true
